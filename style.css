@@ -1,3 +1,14 @@
+:root {
+    color-scheme: light dark;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background: var(--bs-dark);
+        color: var(--bs-white);
+    }
+}
+
 body {
   font-family: 'Rethink Sans', 'Helvetica Neue', sans-serif;
 }
