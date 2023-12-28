@@ -1,2 +1,2 @@
 # tracker.yep.team
-Time tracker power-up for Trello.
+Trello power-up for time tracking.
